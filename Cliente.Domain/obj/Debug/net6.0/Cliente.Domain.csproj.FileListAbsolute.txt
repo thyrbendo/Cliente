@@ -1,0 +1,12 @@
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.csproj.AssemblyReference.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.AssemblyInfo.cs
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\bin\Debug\net6.0\Cliente.Domain.deps.json
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\bin\Debug\net6.0\Cliente.Domain.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\bin\Debug\net6.0\Cliente.Domain.pdb
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\refint\Cliente.Domain.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\Cliente.Domain.pdb
+C:\Users\thyrb\source\repos\Cliente\Cliente.Domain\obj\Debug\net6.0\ref\Cliente.Domain.dll

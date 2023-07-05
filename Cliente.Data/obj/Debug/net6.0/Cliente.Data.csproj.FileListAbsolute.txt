@@ -1,0 +1,17 @@
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.csproj.AssemblyReference.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.AssemblyInfoInputs.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.AssemblyInfo.cs
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.csproj.CoreCompileInputs.cache
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Data.deps.json
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Data.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Data.pdb
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Domain.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Domain.pdb
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.csproj.CopyComplete
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\refint\Cliente.Data.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.pdb
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\ref\Cliente.Data.dll
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\bin\Debug\net6.0\Cliente.Data.runtimeconfig.json
+C:\Users\thyrb\source\repos\Cliente\Cliente.Data\obj\Debug\net6.0\Cliente.Data.genruntimeconfig.cache
